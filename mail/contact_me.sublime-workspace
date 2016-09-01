@@ -1,0 +1,430 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"user",
+				"userid"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"alig",
+				"text-align"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"like",
+				"likecount"
+			],
+			[
+				"join",
+				"join_date"
+			],
+			[
+				"res",
+				"result2"
+			],
+			[
+				"my",
+				"mysql_fetch_array"
+			],
+			[
+				"sql",
+				"sql2"
+			],
+			[
+				"lik",
+				"like_count"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"dr",
+				"driver_email"
+			],
+			[
+				"driver",
+				"driver_id"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"long",
+				"longitude"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"ca",
+				"category"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ARGHA K ROY/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/ARGHA K ROY/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/ARGHA K ROY/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/ARGHA K ROY/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/xamppinstall/htdocs/php/agency/agency/index.html",
+		"/D/xamppinstall/htdocs/php/agency/agency/css/agency.css",
+		"/C/Users/ARGHA K ROY/AppData/Local/Temp/Rar$EXa0.199/jquery-super-simple-text-rotator/index.html",
+		"/D/xamppinstall/htdocs/php/agency/agency/js/agency.js",
+		"/C/Users/ARGHA K ROY/Downloads/Uva673.java",
+		"/D/xamppinstall/htdocs/php/freelancer/css/freelancer.css",
+		"/D/xamppinstall/htdocs/php/freelancer/index.html",
+		"/D/xamppinstall/htdocs/php/agency/css/agency.css",
+		"/D/xamppinstall/htdocs/php/agency/index.html",
+		"/C/Users/ARGHA K ROY/AppData/Local/Temp/Rar$DIa0.678/agency.css",
+		"/D/xamppinstall/htdocs/php/agency/css/hover.css",
+		"/D/xamppinstall/htdocs/php/agency/js/jquery.simple-text-rotator.js",
+		"/D/xamppinstall/htdocs/php/social/get-profile-info.php",
+		"/D/xamppinstall/htdocs/php/social/update-status.php",
+		"/D/xamppinstall/htdocs/php/social/update-profile.php",
+		"/C/Users/ARGHA K ROY/AppData/Local/Temp/Rar$EXa0.589/jquery-super-simple-text-rotator/index.html",
+		"/D/xamppinstall/htdocs/php/social/post-new.php",
+		"/D/xamppinstall/htdocs/php/agency/js/textEffect.jquery.js",
+		"/D/xamppinstall/htdocs/php/agency/js/jquery-1.11.0.js",
+		"/D/xamppinstall/htdocs/php/agency/js/agency.js",
+		"/C/Users/ARGHA K ROY/Downloads/letterfx-master/letterfx-master/index.html",
+		"/C/Users/ARGHA K ROY/Downloads/letterfx-master/letterfx-master/demo.js",
+		"/C/Users/ARGHA K ROY/Downloads/letterfx-master/letterfx-master/demo.css",
+		"/D/xamppinstall/htdocs/php/agency/mail/contact_me.php",
+		"/D/xamppinstall/htdocs/portfolio/about.html",
+		"/C/Users/ARGHA K ROY/Downloads/PagerSlidingTabStrip-master/PagerSlidingTabStrip-master/sample/src/com/astuetz/viewpager/extensions/sample/SuperAwesomeCardFragment.java",
+		"/D/xamppinstall/htdocs/php/social/get-posts.php",
+		"/C/Users/ARGHA K ROY/Downloads/PagerSlidingTabStrip-master/PagerSlidingTabStrip-master/sample/src/com/astuetz/viewpager/extensions/sample/MainActivity.java",
+		"/C/Users/ARGHA K ROY/Desktop/log.txt",
+		"/E/Desktop/cover letter.txt",
+		"/C/Program Files/Strogino CS Portal/Counter-Strike Source/cstrike/custom/Bruss.Org.Ru/cfg/autoexec.cfg",
+		"/C/Users/ARGHA K ROY/Downloads/xtreme_fps_max.cfg",
+		"/C/Users/ARGHA K ROY/AppData/Local/Temp/Rar$DIa0.485/FriendPickerSampleActivity.java",
+		"/D/xamppinstall/htdocs/portfolio/index.html",
+		"/D/xamppinstall/htdocs/portfolio/assets/js/wodry.js",
+		"/D/xamppinstall/htdocs/portfolio/assets/css/wodry.css",
+		"/D/xamppinstall/htdocs/portfolio/assets/css/main.css",
+		"/D/xamppinstall/htdocs/php/social/giveadislike.php",
+		"/D/xamppinstall/htdocs/php/social/registration.php",
+		"/D/xamppinstall/htdocs/php/social/givealike.php",
+		"/C/Users/ARGHA K ROY/AppData/Local/Temp/Rar$DIa0.259/MainActivity.java",
+		"/C/Downloads/bootstrap html5 responsive templates plex/xeon2/xeon/index.html",
+		"/C/Downloads/infinity/infinity/index.html",
+		"/D/xamppinstall/htdocs/php/social/core/db_config.php",
+		"/D/xamppinstall/htdocs/php/social/login.php",
+		"/D/xamppinstall/htdocs/php/social/index.php",
+		"/D/xamppinstall/htdocs/php/sharemysound/singlesounddetails.php",
+		"/C/Program Files/Strogino CS Portal/Counter-Strike Source/cstrike/custom/setti/cfg/autoexec.cfg",
+		"/C/Users/ARGHA K ROY/AppData/Local/Temp/Rar$DIa0.186/MergeSort.java",
+		"/D/xamppinstall/htdocs/php/sharemysound/addsounddetails.php",
+		"/E/Old laptop files/other/Hackkk/WebBrowserPassView.txt",
+		"/C/Downloads/VMware Workstation 10.0.1 Build 1379776/keys.txt",
+		"/C/Downloads/VMware Workstation 10.0.1 Build 1379776/VMware10.0.1-1379776.txt",
+		"/C/Users/ARGHA K ROY/Desktop/New folder/post.php",
+		"/C/Users/ARGHA K ROY/Desktop/New folder/index.htm",
+		"/C/Program Files (x86)/Unity/Editor/Data/Documentation/html/en/Manual/index.html",
+		"/C/Program Files (x86)/Unity/Editor/Data/Documentation/html/en/ScriptReference/index.html",
+		"/C/Users/ARGHA K ROY/AppData/Local/Temp/Rar$DIa0.038/Read It.txt",
+		"/C/Users/ARGHA K ROY/AppData/Local/Temp/Rar$DIa0.790/Read It.txt",
+		"/F/StarTech/Office 2013 professional/Serial Key.txt",
+		"/C/Users/ARGHA K ROY/AppData/Local/Temp/Rar$DIa0.971/README_License.txt",
+		"/C/Users/ARGHA K ROY/AppData/Local/Temp/fz3temp-1/test2.php",
+		"/C/Users/ARGHA K ROY/AppData/Local/Temp/fz3temp-1/concept-pending-jobs-update-log.php",
+		"/C/Users/ARGHA K ROY/AppData/Local/Temp/fz3temp-1/depart-sign-update-log.php",
+		"/C/Users/ARGHA K ROY/AppData/Local/Temp/fz3temp-1/driverlogin.php",
+		"/C/Users/ARGHA K ROY/AppData/Local/Temp/fz3temp-1/test.php",
+		"/C/Users/ARGHA K ROY/AppData/Local/Temp/fz3temp-1/concept-pending-jobs-list.php",
+		"/C/Users/ARGHA K ROY/AppData/Local/Temp/fz3temp-1/concept-ready-for-delivery-list.php",
+		"/C/Users/ARGHA K ROY/AppData/Local/Temp/fz3temp-1/concept-pending-jobs.php",
+		"/C/Users/ARGHA K ROY/AppData/Local/Temp/fz3temp-1/unread-messages.php",
+		"/C/Users/ARGHA K ROY/AppData/Local/Temp/fz3temp-1/concept-pending-jobs-process.php",
+		"/D/xamppinstall/htdocs/php/rssnewsfeed/update.php",
+		"/D/xamppinstall/htdocs/php/rssnewsfeed/index.php",
+		"/C/Users/ARGHA K ROY/AppData/Local/Temp/fz3temp-1/update-log.php",
+		"/D/xamppinstall/htdocs/php/rssnewsfeed/test.php",
+		"/C/Users/ARGHA K ROY/Downloads/index.php",
+		"/D/xamppinstall/htdocs/php/sharemysound/editinfo.php",
+		"/D/xamppinstall/htdocs/php/texibooking/user-edit-profile.php",
+		"/C/Downloads/kmspico 9 3 final activator for windows 8 1 8 7 and office 10 13/ReadMe KMSpico Install.txt",
+		"/D/New Android Workspace/Transport/src/com/imargha/transport/LoginActivity.java",
+		"/C/Users/ARGHA K ROY/Downloads/requesttaxi.php",
+		"/D/xamppinstall/htdocs/php/texibooking/requested-rides-list.php",
+		"/D/xamppinstall/htdocs/php/texibooking/user-rides-list .php",
+		"/D/xamppinstall/htdocs/php/texibooking/update-request.php",
+		"/C/Downloads/Harsh Times (2005)/AhaShare.com.txt",
+		"/D/xamppinstall/htdocs/php/smstemplate/index.php",
+		"/D/xamppinstall/htdocs/php/rssnewsfeed/links.php",
+		"/D/xamppinstall/htdocs/php/rssnewsfeed/core/db_config.php",
+		"/D/xamppinstall/htdocs/php/restaurent/allcategories.php",
+		"/C/Program Files (x86)/Unity/Editor/Data/Documentation/html/en/Manual/UnityBasics.html",
+		"/D/xamppinstall/htdocs/php/texibooking/receievelocation.php",
+		"/D/xamppinstall/htdocs/php/texibooking/requesttaxi.php",
+		"/D/xamppinstall/htdocs/php/texibooking/registration.php",
+		"/C/Users/ARGHA K ROY/Downloads/google-api-services-drive-v2-rev139-java-1.19.0/drive/readme.html",
+		"/C/Users/ARGHA K ROY/Downloads/login.php",
+		"/C/Users/ARGHA K ROY/Downloads/getlocations.php",
+		"/C/Users/ARGHA K ROY/AppData/Local/Temp/Rar$EXa0.817/drive/readme.html",
+		"/C/Users/ARGHA K ROY/AppData/Local/Temp/Rar$DIa0.974/Help.txt",
+		"/C/Users/ARGHA K ROY/Desktop/firefox app/index.html",
+		"/C/Users/ARGHA K ROY/Desktop/firefox app/manifest.webapp",
+		"/D/xamppinstall/htdocs/php/texibooking/login.php",
+		"/D/xamppinstall/htdocs/php/sharemysound/index.php",
+		"/D/xamppinstall/htdocs/php/texibooking/getalldata.php",
+		"/C/Users/ARGHA K ROY/Desktop/map.txt",
+		"/D/ANDROID IDE 2/adt-bundle-windows-x86_64-20140702/eclipse/http",
+		"/D/xamppinstall/htdocs/php/texibooking/core/db_config.php",
+		"/D/xamppinstall/htdocs/php/texibooking/insertdata.php",
+		"/D/xamppinstall/htdocs/freelancer/index.html",
+		"/D/xamppinstall/htdocs/wpblog/wp-content/plugins/sociallocker-next-premium/includes/classes/assets-manager.class.php",
+		"/D/xamppinstall/htdocs/wpblog/wp-content/plugins/sociallocker-next-premium/admin/activation.php",
+		"/D/xamppinstall/htdocs/wpblog/wp-content/plugins/sociallocker-next-premium/libs/onepress/licensing/licensing.php",
+		"/D/xamppinstall/htdocs/wpblog/wp-content/plugins/sociallocker-next-premium/libs/onepress/licensing/includes/license-manager.class.php",
+		"/D/xamppinstall/htdocs/wpblog/wp-content/plugins/sociallocker-next-premium/admin/init.php",
+		"/D/xamppinstall/htdocs/wpblog/wp-content/plugins/sociallocker-next-premium/libs/onepress/api/boot.php",
+		"/D/xamppinstall/htdocs/wpblog/wp-content/plugins/sociallocker-next-premium/libs/onepress/api/api.php",
+		"/D/xamppinstall/htdocs/wpblog/wp-content/plugins/sociallocker-next-premium/admin/pages/preview.php",
+		"/D/xamppinstall/htdocs/wpblog/wp-content/plugins/sociallocker-next-premium/admin/pages/license-manager.php",
+		"/D/xamppinstall/htdocs/wpblog/wp-content/plugins/sociallocker-next-premium/sociallocker-next.php",
+		"/D/xamppinstall/htdocs/wpblog/wp-content/plugins/sociallocker-next-premium/includes/types/sociallocker.php",
+		"/D/xamppinstall/htdocs/wpblog/wp-content/plugins/sociallocker-next-premium/libs/onepress/licensing/boot.php",
+		"/D/xamppinstall/htdocs/blog/wp-config.php",
+		"/D/xamppinstall/htdocs/blog/wp-config-sample.php",
+		"/D/xamppinstall/apache/conf/httpd.conf",
+		"/D/xamppinstall/apache/conf/charset.conv"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"line",
+			"dupli",
+			"skills",
+			"intro-heading",
+			"heading",
+			".head",
+			".cli",
+			"test",
+			"asi",
+			"clie",
+			"webki",
+			"a:hover",
+			"hover",
+			".fa-",
+			"fa ",
+			"fa",
+			"#",
+			"fec503",
+			";\n",
+			"skill",
+			"100px",
+			"intr",
+			"img",
+			"sec",
+			"skill",
+			"intr",
+			"skill",
+			"buzz",
+			"navba",
+			"5",
+			"skills",
+			"startli",
+			"bac",
+			"jpg",
+			"	$",
+			"dup",
+			"				\n",
+			"'];\n",
+			"		\n",
+			"\"];\n",
+			"request($",
+			"80",
+			"81",
+			"80"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "contact_me.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
